@@ -1,0 +1,35 @@
+1. Keyphrase in slug
+=> url menyesuaikan kata kunci
+
+2. SEO title widht (Indikator harus hijau)
+=> title tidak boleh terlalu pendek atau kepanjangan
+
+3. Keyword in title
+=> kata kunci harus ada pada title
+
+4. Text length
+=> total kata pada artikel menyesuaikan instruksi dari SEO
+
+5. Image alt attributes
+=> alt image menyesuaikan kata kunci
+
+6. Previously used keyword
+=> hindari kata kunci yang sudah digunakan, biar tidak bertabrakan dan membuat SEO yang kita buat jelek
+
+7. Meta description length
+=> menyesuaikan tidak boleh pendek atau terlalu kepanjangan atau menyesuaikan parameter plugin yang digunakan (Indikator harus hijau)
+
+8. Keyword in meta description
+=> harus menyematkan kata kunci pada deskripsi, dalam deskripsi tidak boleh membuat kata kunci terlalu banyak
+
+9. Keyphrase length
+=> panjang dari kata kunci minimal dua kata dari kata kunci atau phrasa kata
+
+10. Keyword in introduction
+=> terdapat keyword pada awal artikel
+
+11. Internal links
+=> menyematkan link (berupa artikel lain yang kita buat)
+
+12. Outbond links
+=> menautkan link ke website lain (contohnya wikipedia)
